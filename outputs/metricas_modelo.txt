@@ -1,0 +1,42 @@
+AGROENSO RISK IA - MÉTRICAS DO MODELO
+Modelo: Random Forest Classifier
+Acurácia na amostra de teste: 0.778
+
+Distribuição de classes na base completa:
+risco_produtivo
+Alto        100
+Moderado     79
+Crítico       1
+
+Relatório de classificação na amostra de teste:
+              precision    recall  f1-score   support
+
+        Alto       0.95      0.69      0.80        29
+    Moderado       0.62      0.94      0.75        16
+
+    accuracy                           0.78        45
+   macro avg       0.79      0.81      0.78        45
+weighted avg       0.84      0.78      0.78        45
+
+Matriz de confusão da amostra de teste:
+[[20  9]
+ [ 1 15]]
+
+Observação metodológica:
+Como a base é uma POC simulada, algumas classes extremas podem ter baixa frequência. A função do modelo é demonstrar o fluxo de IA e a classificação de risco, não substituir validação agronômica real.
+
+Importância das variáveis:
+           variavel  importancia
+       chuva_30d_mm     0.142962
+        chuva_7d_mm     0.142770
+         ndvi_atual     0.140997
+       chuva_15d_mm     0.090648
+   umidade_solo_pct     0.090551
+             nino34     0.085418
+     dias_sem_chuva     0.085166
+                oni     0.066279
+    anomalia_temp_c     0.040419
+  variacao_ndvi_pct     0.038484
+temperatura_media_c     0.038250
+       prob_el_nino     0.031654
+ percentual_vendido     0.006401

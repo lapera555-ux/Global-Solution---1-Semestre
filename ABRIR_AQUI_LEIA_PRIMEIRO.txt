@@ -1,0 +1,25 @@
+AGROENSO RISK IA - PROJETO EXECUTÁVEL COMPLETO E PROFISSIONAL
+
+Aluno: Pedro Vinicius Gomes dos Santos
+RM: 571446
+Turma: 1TIAOB-2026
+Curso: Inteligência Artificial
+Global Solution 2026.1
+QUERO CONCORRER
+
+COMO EXECUTAR NO WINDOWS:
+1. Extraia o ZIP em uma pasta do computador.
+2. Abra o arquivo INICIAR_PROJETO.bat.
+3. No menu, escolha a opção 1: Executar tudo recomendado.
+4. Aguarde a instalação das dependências, validação, treinamento, relatório e abertura do dashboard.
+
+O QUE MOSTRAR PARA A BANCA:
+- PDF: docs/projeto_agroenso_risk_ia.pdf
+- Dashboard: aberto pelo menu profissional
+- Relatório HTML: reports/relatorio_executivo_agroenso.html
+- Código Python: pasta src
+- ESP32 simulado: pasta esp32 e src/esp32_simulado.py
+
+ANTES DA ENTREGA FINAL:
+- GitHub já preenchido: https://github.com/lapera555-ux/Global-Solution---1-Semestre.git
+- Vídeo já preenchido: https://youtu.be/_QISHjaNjZc?si=8stXluBzlJo_yhMA

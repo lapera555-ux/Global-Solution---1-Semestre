@@ -1,0 +1,3 @@
+Status da validação: COM PENDÊNCIAS CRÍTICAS
+Pendências críticas: ['streamlit']
+Avisos: []

@@ -1,0 +1,13 @@
+timestamp,municipio,umidade_solo_pct,temperatura_local_c,status_sensor
+2026-06-10T01:55:12,Montividiu,23.5,29.4,atenção
+2026-06-10T01:55:12,Rio Verde,23.4,35.5,atenção
+2026-06-10T01:55:12,Rio Verde,34.4,28.2,adequado
+2026-06-10T01:55:12,Santa Helena de Goiás,25.3,28.3,atenção
+2026-06-10T01:55:13,Santa Helena de Goiás,30.8,32.0,adequado
+2026-06-10T01:55:13,Jataí,39.5,30.7,adequado
+2026-06-10T01:55:13,Jataí,38.4,35.9,adequado
+2026-06-10T01:55:13,Santa Helena de Goiás,16.4,33.1,solo seco
+2026-06-10T01:55:13,Rio Verde,28.2,26.6,adequado
+2026-06-10T01:55:14,Montividiu,40.7,29.2,adequado
+2026-06-10T01:55:14,Mineiros,26.1,31.9,atenção
+2026-06-10T01:55:14,Mineiros,15.9,33.6,solo seco
